@@ -17,3 +17,7 @@ desktop.ini
 .obsidian/cache/
 .obsidian/graph.json
 .obsidian/copilot-index*.json
+
+# и вообще весь обсидиан
+
+.obsidian/
