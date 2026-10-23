@@ -1,0 +1,19 @@
+# --- Системный и IDE мусор ---
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+.vscode/
+
+# --- Внутренняя корзина Obsidian ---
+.trash/
+
+# --- Состояние интерфейса и рабочего пространства (вызывает конфликты) ---
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace*.json
+
+# --- Кэш, индексы и состояние графа ---
+.obsidian/cache/
+.obsidian/graph.json
+.obsidian/copilot-index*.json
